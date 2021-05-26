@@ -1,5 +1,5 @@
 ---
-permalink: /downloads
+permalink: /downloads/
 toc: true
 ---
 
