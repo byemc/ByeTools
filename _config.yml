@@ -103,7 +103,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      
+      
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "byemc"
+
 
 category_archive:
   type: liquid
