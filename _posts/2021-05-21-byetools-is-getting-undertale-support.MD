@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ByeTools is getting UNDERTALE support (and I guess this is the first time I've ever mentioned it)!"
 date: 2021-05-21 6:25 +0000
 tag: undertale
