@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "ByeMC"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://pbs.twimg.com/profile_images/1394017481677754372/26Ik0Bw6_400x400.jpg"
   bio    : "Some guy who makes stuff"
   links:
     - label: "Website"
