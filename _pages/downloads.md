@@ -1,15 +1,15 @@
 ---
 permalink: /downloads
-title: Downloads
 ---
 
-# Supported
-## Stable
+# Downloads
+### Supported
+### Stable
 
-# Depricated
-## Stable
+## Deprecated
+### Stable
 
-## Dev
+### Dev
 
-## Bleeding-Edge
+### Bleeding-Edge
 
