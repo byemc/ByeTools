@@ -1,5 +1,6 @@
 ---
 permalink: /downloads
+toc: true
 ---
 
 # Downloads
