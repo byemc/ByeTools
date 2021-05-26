@@ -1,6 +1,8 @@
 ---
 permalink: /downloads
+title: Downloads
 ---
+
 # Supported
 ## Stable
 
